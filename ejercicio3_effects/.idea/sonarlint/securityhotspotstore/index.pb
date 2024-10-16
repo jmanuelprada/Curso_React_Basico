@@ -28,3 +28,5 @@ I
 src/components/Detalle.js,2/8/285f3fc0747c442c974acf6adbd23eb432300688
 M
 src/components/DetalleById.js,d/7/d702d2cf20bea242894a2af0f98b76f66c60c4b6
+H
+src/components/Filtro.js,d/e/def681b553c80c6ec75548bab201a5e2423f6a47
